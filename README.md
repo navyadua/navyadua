@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navyadua
 - 👀 I’m interested in Programming and Coding
-- 🌱 I’m currently working on Projects with Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Data Analysis Projects
+- 💞️ I’m looking to collaborate on Python Development and Data Analysis Projects
 - 📫 How to reach me ...
 
 <!---
