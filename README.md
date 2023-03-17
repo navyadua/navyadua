@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Navya Dua</h1>
 <h3 align="center">Exploring the Exciting Universe🌌 of Data Science as a Developer💻</h3>
 
-- 🔭 I’m currently working on **research based on e-commerce reviews**
+- 🔭 I’m currently working on **on analysing e-commerce reviews.**
 
-- 🌱 I’m currently learning **more about machine learning and data analysis**
+- 🌱 I’m currently learning **more about machine learning and data analysis.**
 
 - 👯 I’m looking to collaborate on **contributing to an open-source project that aligns with my interests and skills.**
 
-- 🤝 I’m looking for help with **improving my skills in Web Frameworks and**
+- 🤝 I’m looking for help with **improving my skills in Web Frameworks.**
 
-- 💬 Ask me about **My favorite books and music, or anything related to space and astronomy.**
+- 💬 Ask me about **my favorite books and music.**
 
 ## 🌐 Socials:
 <a href="https://codepen.io/navyadua" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="navyadua" /></a>
