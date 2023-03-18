@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about machine learning and data analysis.**
 
-- 👯 I’m looking to collaborate on **contributing to an open-source project that aligns with my interests and skills.**
+- 👯 I’m looking to collaborate on **an open-source project that aligns with my interests and skills.**
 
 - 🤝 I’m looking for help with **improving my skills in Web Frameworks.**
 
