@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya Dua</h1>
 <h3 align="center">Exploring the Exciting Universe🌌 of Data Science as a Developer💻</h3>
 
-- 🔭 I’m currently working on **on analysing e-commerce reviews.**
+- 🔭 I’m currently working on **analysing e-commerce reviews to improve customer satisfaction.**
 
 - 🌱 I’m currently learning **more about machine learning and data analysis.**
 
